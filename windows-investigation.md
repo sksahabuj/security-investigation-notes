@@ -21,5 +21,5 @@
 - Any entry pointing to unknown IPs is a red flag
 
 ## Firewall & Open Ports
-- Check if sensitive ports are exposed publicly
+- Check if sensitive ports are exposed publicly by cheking firewall inbound policy 
 - Use: `netstat -an` to see active connections and listening ports

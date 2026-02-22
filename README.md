@@ -5,7 +5,7 @@ Built as part of my transition from SOC Operations to Cloud Security Engineering
 
 ## Contents
 - Windows Investigation - commands, techniques, key findings
-- More rooms being added weekly
+- More rooms being added weekly.
 
 ## Author
 SK Sahabuj Zaman |
